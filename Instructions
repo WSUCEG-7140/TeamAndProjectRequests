@@ -1,0 +1,12 @@
+If you want to suggest the composition of a team or request a particular project, follow these instructions:
+
+1) Clone this repository to your local computer
+2) Create a branch in the cloned repository. Give you branch a name that does not conflic with any other branch names.
+3) In your branch, add a file with the following contents:
+  Team Name: It needs to be something that is business appropriate and is public
+  Team Members: Provide a white space delimited list of GitHub user names. Do not use email addresses or Wright State University user names or real names unless you are willing for that information to be public.
+  Project Proposal:
+    Project Name: It needs to be something that is business appropriate and is public
+    Existing Repository you plan to Fork if any: Provide the GitHub URL
+    Description: Write one or two paragraphs describing what work you plan to accomplish during the remainder of Summer 2023 Semester. USe plain language as opposed to USer Stories or Requirements.
+    
