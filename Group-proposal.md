@@ -1,0 +1,6 @@
+- Team Name: fogleman-craft  
+- Team Members: https://github.com/TonePoems https://github.com/dburd08    
+- Project Proposal:
+    - Project Name: Craft
+    - Repository: https://github.com/fogleman/Craft
+    - Description: Just based off of your description: create moving clouds, different procedural terrain generation, generation of mazes, etc. We do not have any set plans yet, just want to make sure we get a team and dibs on this repo. 
