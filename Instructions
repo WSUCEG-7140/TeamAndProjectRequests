@@ -4,7 +4,7 @@ If you want to suggest the composition of a team or request a particular project
 2) Create a branch in the cloned repository. Give you branch a name that does not conflic with any other branch names.
 3) In your branch, add a file with the following contents:
   Team Name: It needs to be something that is business appropriate and is public
-  Team Members: Provide a white space delimited list of GitHub user names. Do not use email addresses or Wright State University user names or real names unless you are willing for that information to be public.
+  Team Members: Provide a white space delimited list of GitHub user names. Do not use email addresses or Wright State University user names or real names unless you are willing for that information to be public. Teams must have at least 3 members and no more than seven members. Your Instructor may assign members that have not been requested.
   Project Proposal:
     Project Name: It needs to be something that is business appropriate and is public
     Existing Repository you plan to Fork if any: Provide the GitHub URL
