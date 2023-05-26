@@ -1,0 +1,6 @@
+Team Name: Rainbow
+Team members github IDs : siri0314,shirini4,sushmithakishor23,HarshaBojanki3
+Language selected: Java script(ReactJS)
+Project- Name: React Quiz Game
+Description: To craete an interactive web app for Quiz game which uses Open Trivia DB API to access the question and corresponding answers.The main focus is interactive user interface.
+
