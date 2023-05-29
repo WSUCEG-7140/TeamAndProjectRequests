@@ -1,0 +1,7 @@
+Team Name: Tempus Fugit
+Team Members: 
+bakursait2 criticalglitch w1158mxs xieWright
+Project Proposal: 
+    Project Name: LibJS Temporal Implementation Updates for Serenity OS
+    GitHub URL: https://github.com/SerenityOS/serenity
+    Description: Serenity OS is an operating system implemented from the ground up without external libraries. In this operating system, the team has implemented Javascript in library called LibJS. As a part of their LibJS Javascript implementation, they are implementing the "Temporal" Proposal for the Javascript language. The current implementation of the proposal is a little over 80+ commits behind the current spec proposed by TC-39. We would like to help advance their implementation to be closer to the current spec. 
