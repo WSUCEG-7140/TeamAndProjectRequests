@@ -4,3 +4,4 @@ Language selected: Java script(ReactJS)
 Project- Name: React Quiz Game
 Description: To craete an interactive web app for Quiz game which uses Open Trivia DB API to access the question and corresponding answers.The main focus is interactive user interface.
 
+[I suspect there are existing open source projects that do exactly what you describe. How would your project innovate? For example, you could implement a multi-player game with a user interface similar to popular TV game shows.  You could adapt the database so that the game may be used for test prerpharation/studying using test questions. The interface would need to be convenient for adding and editing questions and answers.]
