@@ -5,3 +5,6 @@ Project Proposal:
     Project Name: LibJS Temporal Implementation Updates for Serenity OS
     GitHub URL: https://github.com/SerenityOS/serenity
     Description: Serenity OS is an operating system implemented from the ground up without external libraries. In this operating system, the team has implemented Javascript in library called LibJS. As a part of their LibJS Javascript implementation, they are implementing the "Temporal" Proposal for the Javascript language. The current implementation of the proposal is a little over 80+ commits behind the current spec proposed by TC-39. We would like to help advance their implementation to be closer to the current spec. 
+    
+    [I like the idea of contributing to an opensource project. However, you will need to demonstrate test driven development and an engineering process. The owners of the repository may not be supportive. At very least, you need to work in your own Fork so that you have the ability to merge Pull Requests.]
+    
