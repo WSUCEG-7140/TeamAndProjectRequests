@@ -1,0 +1,5 @@
+Team Name: Team Beta
+Team Members(5):ankithreddygodala mohanakavyac poojithakamana seshphanigrandhe thammak
+
+Project Name: Build a web interface for an Intel x86 disassembler by using Python or Javascript APIs.
+Project Description: The web interface must allow upload of an x86 binary file, disassemble the binary file, display the disassembly, provide a list of symbols found in the binary file, change the start address for the start of disassembler, etc.
