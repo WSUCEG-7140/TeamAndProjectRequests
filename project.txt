@@ -1,5 +1,5 @@
 Team Name: Team Beta
-Team Members(5):ankithreddygodala mohanakavyac poojithakamana seshaphanigrandhe thammak
+Team Members(5):ankithreddygodala mohanakavyac poojithakamana seshaphanigrandhe thammak BharatGoru LavanyaNelakurthi
 
 Project Name: Build a web interface for an Intel x86 disassembler by using Python or Javascript APIs.
 Existing Repository we plan to Fork: https://github.com/icedland/iced/tree/master
