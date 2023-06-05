@@ -1,0 +1,9 @@
+Team Name: Team J
+
+Team Members: kruslin2 (https://github.com/kruslin2/CEG7140)
+
+Proposal-Name: Minecraft
+
+Repository: https://github.com/fogleman/Craft
+
+Description: Just based off of your description: create moving clouds, different procedural terrain generation, generation of mazes, etc. as time allows.
