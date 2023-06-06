@@ -1,0 +1,20 @@
+Team Name: TeamH
+
+Team Members:
+SaiPriya-WSU
+Nikhitha-wsu
+Prathyusha-WSU
+spadala-wsu
+Sreeshma-wsu
+Sindhura2303
+
+Project Proposal:
+
+Project Name: Patient Record Management System
+
+Repository GitHub URL: https://github.com/WSUCEG-7140/TeamH.git
+
+Project Description: This Application will manage patient details along with his health information. It will insert the new record, also updates, deletes, searches and displays the record. 
+
+Programming Language - Python 
+
