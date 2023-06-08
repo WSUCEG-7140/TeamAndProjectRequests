@@ -23,6 +23,7 @@ Determine the necessary components, layouts, and navigation flow for a seamless 
 Design the backend architecture using Java and the Spring Boot framework, considering the required REST API endpoints and data flow.
 Frontend Development:
 
+
 Set up the development environment for React JS.
 Create the required UI components and pages based on the design.
 Implement user login, movie listing, movie details, ticket booking, payment section, and logout functionality.
