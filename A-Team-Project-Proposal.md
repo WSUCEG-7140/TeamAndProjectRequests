@@ -5,6 +5,6 @@ Team Members:  Vidhi Tusharbhai Sheth - https://github.com/VidhiS07
                Mousami Khadilkar - https://github.com/MousamiKhadilkar
 
 Project Proposal:
-Project Name:  E-commerce web application
+Project Name:  Grocery Store Managment Application using Python
 
-Description:  we want to build online shopping website (using angular framework and typescript) where user will see products and can add items to cart and even remove items if they change their mind and many more features. We will include all of the features that the majority of online store applications provide.
+Description:  we want to build Grocery Store Managment Application where Admin/Store manager can see all the products and add/update/delete products. 
